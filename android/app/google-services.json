@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152740143958",
+    "project_id": "the-best-todo-app",
+    "storage_bucket": "the-best-todo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152740143958:android:aedf4834cf385b7bb0acf7",
+        "android_client_info": {
+          "package_name": "the.best.todo.app.the_best_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSv0v9lcWHoK-1Y2DkFVwZXYfkAStlcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
